@@ -1,0 +1,16 @@
+ipykernel
+typing_extensions
+IPython
+langgraph
+pandas
+streamlit
+langchain_openai
+dotenv
+langchain_community
+langchain
+faiss-cpu
+langchain.tools
+#langchain.graph
+langchain_core
+langchain_groq
+tavily-python
