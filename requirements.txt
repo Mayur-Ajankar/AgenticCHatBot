@@ -1,7 +1,7 @@
 ipykernel
 typing_extensions
 IPython
-langgraph
+#langgraph
 pandas
 streamlit
 langchain_openai
@@ -14,3 +14,7 @@ langchain.tools
 langchain_core
 langchain_groq
 tavily-python
+ 
+#langgraph.graph
+#langgraph.graph.message
+langgraph
